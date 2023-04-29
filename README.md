@@ -10,7 +10,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create the metrics according to the metric list.
 - Create a dashboard according to the mock-up provided by stakeholders.
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+#Data Model
 ![image](https://user-images.githubusercontent.com/119929413/235287922-a33d382c-56f5-4127-b005-65c5eaaa9c19.png)
+#Overall Report
 ![image](https://user-images.githubusercontent.com/119929413/235287935-5f1daff9-c66e-482b-a0a3-17ed5382dd2d.png)
 
 
